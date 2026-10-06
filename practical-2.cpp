@@ -1,8 +1,4 @@
-/* A college is digitizing student records to simplify academic administration. Design a Student class that stores
-basic student information and displays the details whenever requested by the administrative staff.*/
-
-
-#include<iostream>
+include<iostream>
 #include<string>
 using namespace std;
 class Student
