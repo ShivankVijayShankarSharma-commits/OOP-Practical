@@ -1,7 +1,3 @@
-/*A bookstore is developing a cataloguing system where some books are initially added with default details, while others
-are entered with complete information. Design a Book class that supports both types of object creation using
-appropriate constructors.*/
-
 #include <iostream>
 #include <string>
 using namespace std;
