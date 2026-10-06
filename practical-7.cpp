@@ -1,7 +1,6 @@
 /*A university information system stores common details such as name, age, and contact information for all
 individuals, while student-specific information such as roll number and branch is maintained separately.
 Design an application that avoids duplication of common data by organizing the classes appropriately.*/
-
 #include <iostream>
 #include <string>
 using namespace std;
