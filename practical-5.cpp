@@ -2,7 +2,6 @@
 that correctly assigns the submitted details to the respective data members, even when the input
 variable names are the same as the class attributes.*/
 
-
 #include <iostream>
 #include <string>
 using namespace std;
