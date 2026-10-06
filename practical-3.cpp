@@ -1,7 +1,3 @@
-/*The Human Resources department needs a simple application to organize employee information.
-Design an Employee class that stores employee details and enables authorized staff to view the stored
-information whenever required.*/
-
 #include <iostream>
 #include <string>
 using namespace std;
