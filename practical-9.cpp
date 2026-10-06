@@ -1,6 +1,3 @@
-/*A transport management system maintains common information for all vehicles while storing additional details specific to
-different vehicle categories. Design an application that organizes these records efficiently using inheritance.*/
-
 #include <iostream>
 #include <string>
 using namespace std;
