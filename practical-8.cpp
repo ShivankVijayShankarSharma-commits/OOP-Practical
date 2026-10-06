@@ -1,7 +1,6 @@
 /*An organization maintains records of its workforce. Every manager is an employee, and every
 employee is a person. Design an application that progressively extends the available information at
 each level while reusing the common details already defined.*/
-
 #include <iostream>
 #include <string>
 using namespace std;
